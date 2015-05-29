@@ -6,7 +6,9 @@ CAM15us calculator for unrelated self-luminous stimuli as described in:
 2) Withouck M, Smet KAG, Hanselaer P. Brightness prediction of different sized unrelated self-luminous stimuli. Optics Express 2015;23(10):13455-13466.
 
 Excel: version 1.0, May 29th 2015 (K.A.G. Smet)
+
 Matlab: coming soon
+
 Python: coming soon
 
 
